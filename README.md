@@ -21,15 +21,7 @@
 - **📊 DataPilot** — AI-assisted analytics & reporting system  
 - **📱 Cert-Track-Mobile** — Track certifications & career progress  
 - **⚙️ Twitch Stream Analyzer** — Real-time audio + sentiment + video features  
-- **🛠 Auto-Service Dashboard** — Full booking, admin, receipts, analytics  
-
----
-
-### 🧠 About Me
-
-I build practical systems that actually ship.  
-From data dashboards and web apps to cloud tooling and automation.  
-Currently focused on **job-ready engineering**, clean architecture, and real-world use cases.
+- **🛠 Auto-Service Dashboard** — Full booking, admin, receipts, analytics
 
 ---
 
