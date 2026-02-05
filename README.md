@@ -12,7 +12,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-> “I don’t collect tutorials. I build systems.”
+> Software engineer working at the intersection of AI, automation, and product engineering. I build tools that reduce friction and increase leverage.
 
 ### 🔥 Current Projects
 
